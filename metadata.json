@@ -1,0 +1,7 @@
+{
+  "name": "Câmera de Segurança com IA",
+  "description": "Um aplicativo que utiliza a câmera do seu dispositivo para detectar movimento, capturar imagens e analisá-las com IA para identificar potenciais eventos de segurança.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
